@@ -1,6 +1,6 @@
 package Demo
 
 import "fmt"
-func act(){
+func Act(){
   fmt.Println("This is Demo.act!")
  }
