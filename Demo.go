@@ -1,4 +1,4 @@
-package test
+package ltb
 
 import "fmt"
 func Act(){
